@@ -7,7 +7,7 @@ Utility used to decrypt remmina password accounts
 
 ..runs the game :)
 
-If you have .remmina folder backed up somewhere or in another directory:
+If you have .remmina folder backed up somewhere or another directory:
 
 `REMMINA_FOLDER=~/.local/share/remmina/ ./remmina_password_exposer.py`
 
